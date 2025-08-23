@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="2" group-title="VTV 👻" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://rr1-ateme.tv360.vn/live/eds/154/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc1NTg2OTMyMn0.STyos3h7QibMbnQJu14lnKSBZZvjrDgmT-KbrGhfHcqfe0xcYzNWvCgP27qoOgy832WjEAf7n2C22vgejniQww&screen=MHN&uid=173373703
+https://rr1-ateme.tv360.vn/live/eds/154/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc1NTkzNjM3Mn0.xFfP9O2N2sYWWzDdt8GN647EJ3CQRWJ48ZfD_rn2t78YKVVBAmKg6RUdsUnLkZf-G6hXuRvXlutBa4Mh6e0beA&screen=MHN&uid=173373703
 
 #EXTINF:-1 tvg-id="3" group-title="VTV 👻" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -58,7 +58,7 @@ https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-id="190" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/441/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MzQsInVyaSI6Ii9icGstdHYvNDQxL291dHB1dC9pbmRleC5tM3U4In0.nZTAgXLTdW91oydJWbhnvmMDMkngExsT9I5-Wx43tN0&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/441/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4OTEsInVyaSI6Ii9icGstdHYvNDQxL291dHB1dC9pbmRleC5tM3U4In0.KnQXl7U0fpJ-6fqkkD1volqCtuqzOx1jS1hDGiMf-D0&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -68,27 +68,27 @@ https://fo-hlc.tv360.vn/bpk-tv/443/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-id="192" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/442/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MzcsInVyaSI6Ii9icGstdHYvNDQyL291dHB1dC9pbmRleC5tM3U4In0.h8p2EJGnONqg-EDQQjA542u4PW8cgPntlgpSg1EDxSI&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/442/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4OTQsInVyaSI6Ii9icGstdHYvNDQyL291dHB1dC9pbmRleC5tM3U4In0.ubITCJB2pd8bh53aoRCVBwFXw5e6dI12MY3kaJWvgv4&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="193" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/157/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MzcsInVyaSI6Ii9icGstdHYvMTU3L291dHB1dC9pbmRleC5tM3U4In0.QaZSnO_jtOFTlGLcv_4HGE2DKW9PprK0yqqIJ05UApg&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/157/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4OTQsInVyaSI6Ii9icGstdHYvMTU3L291dHB1dC9pbmRleC5tM3U4In0.OIuYXsTgByRx58H9RCj_IyE9gWDn1mNTzMKRTDFbmfw&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="194" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NDAsInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.o7j3TnZyTNw0-QVBWGo1-3Xj9cY0V0rk7LX2myLWep8&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4OTcsInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.WIIgK9HmidwwCIPLuRTsOvJCXEgd0QhM-IR6D8egVow&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="195" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/304/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NDAsInVyaSI6Ii9icGstdHYvMzA0L291dHB1dC9pbmRleC5tM3U4In0.C2RWxz45uuNKY1ooiCZNCDZYq0NsRIW4GW4ut086OuM&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/304/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4OTcsInVyaSI6Ii9icGstdHYvMzA0L291dHB1dC9pbmRleC5tM3U4In0.VMbc2_FPMGfGB5MLRztFMzDGAPCeerMn3K9OoBMfJys&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="191" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://rr1-ateme.tv360.vn/live/eds/54/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzU0L0hMU19DbGVhbl9NSExfNnMvIiwiZXhwIjoxNzU1ODY5NjM0fQ.zs9-utUvCwFx6vY8KUJM78mJYRLTAk3B36GFXa9r6CWxc0dpjGdObn-7owpTAQYvUehdjH5v4wDsOxmrFkfpLw&screen=MHN&uid=173373703
+https://rr1-ateme.tv360.vn/live/eds/54/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzU0L0hMU19DbGVhbl9NSExfNnMvIiwiZXhwIjoxNzU1OTM2ODkxfQ.pAnP1rvrszICCS_F6SwdBVkX2D_6ncpA3b-j1tclP3o0Cu3qJ6-6OLCl54DZYIdbOIqZyHyJSM-d2XAheW2Khg&screen=MHN&uid=173373703
 
 #EXTINF:-1 tvg-id="11" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -118,477 +118,477 @@ https://fo-hlc.tv360.vn/bpk-tv/159/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-id="132" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/419/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk1NzcsInVyaSI6Ii9icGstdHYvNDE5L291dHB1dC9pbmRleC5tM3U4In0.hcUilCxDkVgjJcHjeWsCzT8GejgzWO5Vr1KpkcNH1D8&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/419/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4MzQsInVyaSI6Ii9icGstdHYvNDE5L291dHB1dC9pbmRleC5tM3U4In0.oyQN7kKFflOr91DHobciWfKDXGODwDAIsp-0sYYnsa0&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="133" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/399/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk1ODAsInVyaSI6Ii9icGstdHYvMzk5L291dHB1dC9pbmRleC5tM3U4In0.bbqIH6x2UaM8bxiDwrg2L_UMplTAg-q4kZC2Yh-DvnI&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/399/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4MzcsInVyaSI6Ii9icGstdHYvMzk5L291dHB1dC9pbmRleC5tM3U4In0.82mID0WL2dyZkBssZyWXgAIOs6gKq1NnzoAMvBCZNvs&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="25" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/252/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MDMsInVyaSI6Ii9icGstdHYvMjUyL291dHB1dC9pbmRleC5tM3U4In0.AJelnx4kP5UNCeisNX-V8dxl8dxPFcMPEZKLP5z-Nzg&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/252/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2NjAsInVyaSI6Ii9icGstdHYvMjUyL291dHB1dC9pbmRleC5tM3U4In0._FVtwqTMRYSBbUcqr9e-loxpY1z2ACMsu0bEwFfDWXs&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="26" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/249/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MDMsInVyaSI6Ii9icGstdHYvMjQ5L291dHB1dC9pbmRleC5tM3U4In0.UF8Yx7S1MqcMJsW5rFscsV69-O92r3taLOlqh_XWvrE&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/249/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2NjMsInVyaSI6Ii9icGstdHYvMjQ5L291dHB1dC9pbmRleC5tM3U4In0.rX0LbwMek8buhEXELKUGHzv1FYkHpOmalee9P6WS_kA&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="219" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/250/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NjcsInVyaSI6Ii9icGstdHYvMjUwL291dHB1dC9pbmRleC5tM3U4In0.jTssMu0iv-MiAPm5e3ruT9vCwB0CNf3ZZvLs2VP5bwI&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/250/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MjQsInVyaSI6Ii9icGstdHYvMjUwL291dHB1dC9pbmRleC5tM3U4In0.ULpy-fXQgIQADxX7-NZ-_lQQ7IGPJuLM6_uQuxm60Y0&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="220" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/251/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NzAsInVyaSI6Ii9icGstdHYvMjUxL291dHB1dC9pbmRleC5tM3U4In0.y3oVmwyvT3WSIY7Rqr1qJ6nnz4ABRl2CSQd_LRUCjgw&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/251/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MjcsInVyaSI6Ii9icGstdHYvMjUxL291dHB1dC9pbmRleC5tM3U4In0.WUP5FnYVH2A1tSfE_130NBWPL1KIcR7hHOrYr4uJd8w&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="27" group-title="VTVcab 👻" tvg-logo="https://i.postimg.cc/13zTG5CV/On-shopping.jpg",ON Homeshopping
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/431/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MDYsInVyaSI6Ii9icGstdHYvNDMxL291dHB1dC9pbmRleC5tM3U4In0.PnpfKOzX5QmG7sBXQgq2dTponuiRvnFzmVbhAOo9KbA&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/431/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2NjMsInVyaSI6Ii9icGstdHYvNDMxL291dHB1dC9pbmRleC5tM3U4In0.UrQtGoVsVlLV659uR2-Fsx0mQdquVn6d9ZdgVEzl7NY&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="136" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON 2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/218/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk1ODMsInVyaSI6Ii9icGstdHYvMjE4L291dHB1dC9pbmRleC5tM3U4In0.ZI1QA9Rtw6MAQsHNc9AJwOm6aE15R9I0kHVeyOxr8N4&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/218/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NDAsInVyaSI6Ii9icGstdHYvMjE4L291dHB1dC9pbmRleC5tM3U4In0.BQ1ILQw4zzFUn-S3OFIqE5UnO5EAyjDDTiFeXku3sXg&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="169" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/289/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MTAsInVyaSI6Ii9icGstdHYvMjg5L291dHB1dC9pbmRleC5tM3U4In0.HXSHO3xbYHwGkHKCFrCY9cImk6xlLyIq7JW5VuaLvxA&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/289/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NjcsInVyaSI6Ii9icGstdHYvMjg5L291dHB1dC9pbmRleC5tM3U4In0.hvbuFcaeUr3Wa4ZnVYem3emQNUDCqx4ESDRdKLMewnA&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="175" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://27.67.50.6:18080/348.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S9sduM6fK2GMscojvtIdAKqx/z3N2aH9MQZs8U6NN1TR+I5zqMO7Z2WVUTnQZC+YYmrNNq4ui41v2iw3D5BgpPTpMnpA9tkY9fXc+DW1Xp1pU0NCVM+uIMhV+zgWbRFXGaUWguOfwpslJ8lQjS4uOuz3U9wvfSCTEcepI/5ZTtjQ==&uid=173373703
+http://27.67.50.6:18080/348.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SpwiNqlw8j3wwJZoMQpcxVin2ihV9KDxlcTz54KiGiuqDrLMK6EogNc7ib9u1SAiB9W7rcMoz5i3bVrzYk9O1Z0P8jfIQIRVs9znZ2MJ/lx39XDjNRmn2h4c4P+7HnGK5YoSQXkmUFobJab3+BEGiiN22uF4+q+VcamN4b8BaghA==&uid=173373703
 
 #EXTINF:-1 tvg-id="176" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/226/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MTMsInVyaSI6Ii9icGstdHYvMjI2L291dHB1dC9pbmRleC5tM3U4In0.AwFLZGdev_IqWneyXFHbQ3Fm92ONXMBT9uLgtUBKn10&minrate=0&maxrate=5000000&uid=49049089
+https://fo-hlc.tv360.vn/bpk-tv/226/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NzAsInVyaSI6Ii9icGstdHYvMjI2L291dHB1dC9pbmRleC5tM3U4In0.rojVygRePRoLO2nZhJw4eVAYiitaeq4GgMIWqlRAPww&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="177" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/339/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MTYsInVyaSI6Ii9icGstdHYvMzM5L291dHB1dC9pbmRleC5tM3U4In0.76DUnF0F_gM_QJCEviOEWnlcLSkUYnJBxnyfOrwjFJA&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/339/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NzMsInVyaSI6Ii9icGstdHYvMzM5L291dHB1dC9pbmRleC5tM3U4In0.9RcZN5f3Ddv-mQiGEDAYWjSy7ffCE30A5--XdN5gjzs&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="178" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/263/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MTYsInVyaSI6Ii9icGstdHYvMjYzL291dHB1dC9pbmRleC5tM3U4In0.-cnyfNu2v9GOSLZLhLeZNKbwPgBKPNU0DzkxfnpXYyw&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/263/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NzMsInVyaSI6Ii9icGstdHYvMjYzL291dHB1dC9pbmRleC5tM3U4In0.PhBYfNUQXY5AtMI5vOb2OSsgt7ZKx9vgnwfmx5MDW1A&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="179" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON KID
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/234/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MTksInVyaSI6Ii9icGstdHYvMjM0L291dHB1dC9pbmRleC5tM3U4In0.ZL660RFPCTsml3pSoRl-tNh99mNQIjyv179NvXYQnFM&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/234/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NzYsInVyaSI6Ii9icGstdHYvMjM0L291dHB1dC9pbmRleC5tM3U4In0.ejsVSHtnCZ6IJcrtzGSa2MNF2kZussjAPF3ftNRszzI&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="180" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/211/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MTksInVyaSI6Ii9icGstdHYvMjExL291dHB1dC9pbmRleC5tM3U4In0.yw0fF9jx-_n-_xRo8yo0BJedvysdSDy_hWwDPLDNDa8&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/211/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NzYsInVyaSI6Ii9icGstdHYvMjExL291dHB1dC9pbmRleC5tM3U4In0.ozw121DiCyMekJ5ND1nxubc7sfkoHRt_IVFsblCigZg&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="181" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/346/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MjIsInVyaSI6Ii9icGstdHYvMzQ2L291dHB1dC9pbmRleC5tM3U4In0.0cXAuWj1bB_JCH6UnQk3_wXLkxAfpzxNOLusdi38c8g&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/346/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NzksInVyaSI6Ii9icGstdHYvMzQ2L291dHB1dC9pbmRleC5tM3U4In0.MADTu7gD7f0O5lBJirtuE4p_c-ylJavrTYUhwTYm-ho&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="182" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/212/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MjIsInVyaSI6Ii9icGstdHYvMjEyL291dHB1dC9pbmRleC5tM3U4In0.n19uzBWBl16e90ol2v8SnGmyy2XYWwMutwv44EiLw4Q&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/212/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NzksInVyaSI6Ii9icGstdHYvMjEyL291dHB1dC9pbmRleC5tM3U4In0.5TChY1GYytqxBIQcMv7GvkMRDxErj6fUq5Pw5MQGaWE&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="184" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/219/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MjUsInVyaSI6Ii9icGstdHYvMjE5L291dHB1dC9pbmRleC5tM3U4In0.DoB10Oj9-2OynrCoRPNHFETL7bQgsfGU1VUC54ZDMns&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/219/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4ODIsInVyaSI6Ii9icGstdHYvMjE5L291dHB1dC9pbmRleC5tM3U4In0.P5prNyGwYN2mlQj6BbxOKmqVzvklWrm87ybxtUuzvos&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="185" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/220/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MjUsInVyaSI6Ii9icGstdHYvMjIwL291dHB1dC9pbmRleC5tM3U4In0.2DSjw-giuwowziMRbQ6jslOC-hXv5cQUjVSh_RyJIv8&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/220/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4ODIsInVyaSI6Ii9icGstdHYvMjIwL291dHB1dC9pbmRleC5tM3U4In0.hcudxVe78IWk57ShgUrC8ap4QKM-dU2m8wwRXlGhW_o&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="186" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/350/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MjgsInVyaSI6Ii9icGstdHYvMzUwL291dHB1dC9pbmRleC5tM3U4In0.v8LfEU_72VMpB9LYv3X0YVth5VObfg19d0N9IJfgbSA&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/350/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4ODUsInVyaSI6Ii9icGstdHYvMzUwL291dHB1dC9pbmRleC5tM3U4In0.t4VKippvtcamKkvHFVO0LfiLDzlqXD0k7C66Uy7iySQ&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="187" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/351/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MjgsInVyaSI6Ii9icGstdHYvMzUxL291dHB1dC9pbmRleC5tM3U4In0.CvK650gvK_WmRPNw2JgacpSDlVJjbWyybyJD-m3d8Ic&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/351/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4ODUsInVyaSI6Ii9icGstdHYvMzUxL291dHB1dC9pbmRleC5tM3U4In0.NY9dFmaf2VzF5ZYwk9QoBBl4bdjoh18ZSCesBjBzVeI&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="188" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/347/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MzEsInVyaSI6Ii9icGstdHYvMzQ3L291dHB1dC9pbmRleC5tM3U4In0.I7UFoRW_KlkdmCSILe9SccPB6ykr_qG2M9E8kbeffTU&minrate=0&maxrate=5000000&uid=191854273
+https://fo-hlc.tv360.vn/bpk-tv/347/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4ODgsInVyaSI6Ii9icGstdHYvMzQ3L291dHB1dC9pbmRleC5tM3U4In0.6qDDvAoDSu5HQFai6nXofpwtG4SVDhMbRYBAqbV1t0A&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="189" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/349/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MzEsInVyaSI6Ii9icGstdHYvMzQ5L291dHB1dC9pbmRleC5tM3U4In0.Wy7oONLyqCEX1MqH_A8PWYwO7G5kTiM8_5QEhE1K0QY&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/349/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4ODgsInVyaSI6Ii9icGstdHYvMzQ5L291dHB1dC9pbmRleC5tM3U4In0.Rq_hIeGf8b82e8cCMEVU80OZZ-zGFsHfXW8uQ6KhDhE&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="201" group-title="SCTV 👻" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/343.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QxjFXI0tFMvvlo7AaQkY87ZeUb7LlvJJjY6W7/jWx0tweHiEfRom5cNolbr2YpZPdeB3cHqf+mTItazhcZZsqYwsOO1n7jYyWMcb6cxFqEuKyPz5rGi1Kc4J+YNbDNOyimo/glDfpQShlSx3yWbkr5kupQBZ7rvXynlttI0CzfWQ==&uid=173373703
+http://116.108.198.150:18080/343.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SBjl4DmX4HmtCVTZfrcmOkhJbF4WEdwdE8Bcr5GfYnYFuh1FkIayaDbNxzoq5PxlewTcSZicpA7pCBtlDnrfk6z24+9HaPPvOIMYDMEoiyAffbAKrl0BGSgej4CsXw/C1HthiaPJJpKpual9eXVxUNZHE0QOdN0MFFxOqoRHk7kg==&uid=173373703
 
 #EXTINF:-1 tvg-id="232" group-title="SCTV 👻" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/297/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NzAsInVyaSI6Ii9icGstdHYvMjk3L291dHB1dC9pbmRleC5tM3U4In0.SKEgAmJ8gxwE1Z9FmVvtwqJDlDaMMNjy9f6c2Pb-sOM&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/297/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MjcsInVyaSI6Ii9icGstdHYvMjk3L291dHB1dC9pbmRleC5tM3U4In0.yJYCCkIMtnWNEJ6OAmcaMzdSlYIAsU7L30tSKJPDHM8&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="33" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/mwCTDMj.png",Hà Nội 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/282/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MDksInVyaSI6Ii9icGstdHYvMjgyL291dHB1dC9pbmRleC5tM3U4In0.d8xCxW4wSdSv6kmDZhc3wi6581vvHikNP2bh0bJ0VME&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/282/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2NjYsInVyaSI6Ii9icGstdHYvMjgyL291dHB1dC9pbmRleC5tM3U4In0.CU5A3uVqQL40Mi1RC6d_WDmmLAm0uPgp27_cRVfFFEw&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="34" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/HyiwlZV.png",Hà Nội 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/283.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7T0MEDJi+a1ejviW85nKvkhR3HMIhXaEl7k5+WUDHgIBGMQ+7ezC852zlJ8JcG3+j3aOA6/NKgJSQqSMUflQYB7qo2mmOnZBLy9TWWfrCOpX1rDjoHbhPMhwgVJbkGw5vP52affVOcZ9/ORmVEb031nXHOJmUB0JQaqzZX8Qz2h1Q==&uid=173373703
+http://171.238.180.86:18080/283.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RBurEq9G/ihto0DpRDK3OTXUHqLBGYWIef+lGY7Dfzxl1f7bPogzcxHf9FS+rfneGMPZjtIyrmYtJRJTp9CPCNzDRVa1MRDGY6BbxWGRWZocYHh3E2EFYoPtIHTdVi4MZrbzHrA7V/Q4iw3WREYI25qeVYwEbynjK0GV3qKoXFXw==&uid=173373703
 
 #EXTINF:-1 tvg-id="9832" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/s3yq8AW.png",Hải Phòng 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/306.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SHau53l2lzUJDNRSgXguxqnrY+tQMW/K+Ey4Q7AoAB2wggQzF1pB4QZYsEn6GUkK8VM/hplZyRqpCoNuVj88wiR5gqG3ESDdZdUdkATqjxy5d3yFKextbY0Q8b6ujHCe6jJDwHZ55DOOW5VW0yEWP8Me5pesAqHHkAhcvp/ny4vw==&uid=173373703
+http://171.238.180.86:18080/306.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S/ll71VuCnoefoLShRoMLT9M+t8w12kBGOxlBcDgmdIEkBrtY1X8r/x2hftswqcxMKDlEUnPpqjXnNfjAOwiquSEpIJleMjtsKNOaP4ZV5h80Tq4VNM46hrpNPcDWdG15wAXGVr+rOcCBXfgnt04wsUf/pgf4y3EeN3N1k9HxCUA==&uid=173373703
 
 #EXTINF:-1 tvg-id="60" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/StFk4PA.png",Hải Phòng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.150:18080/305.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RvHwLJ771e+ZUyCGLzsiuWZA771aTPc881wqH1YILHoXge7sg17F24Uo+w/Dxj/nNQC+JSM1KQpaQerpRp22vujw7LNQETJhgyWmbKKvPbTEAIJQ4cY7NS6/WqKHdsx5tn82oxK2BEIo7EbmZw/R1XvBPT550S6vIFJpeLehxU3w==&uid=173373703
+http://171.238.180.86:18080/305.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TXc6xPJpioDJvrV6uThoJXN5XaTlV3icmz/fx6ytgA++vi0HM6ckZrExRPy987uv2lwK3DsF56pH5Op7wmLHcf3O09KzWeX+eWb4SJ1C9q0vFUKXy1/N5nn6W92M0iDcLTIV33SE2ySzmxSAxXRZdFUz1ZjTDiGvr5Ud7sfVZ6Wg==&uid=173373703
 
 #EXTINF:-1 tvg-id="35" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/2On2R0G.png",An Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/314.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Rb2vhM/rca4ciaRZY1lHpSoqVIbh4oVjvLDlkVPyW5IWTYE7uVqw8WnO5NFDT9RzChr/9KfWXipDhqcXETNST24FsMXgiKCiEETEO9an7I0o58VTFr+H+jwbU/bVw7odSzQQ6uqFuC2hz1zWSmFxTedOmQq0Cb0J2aKzj7tewP4g==&uid=173373703
+http://171.238.180.86:18080/314.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RgphalT7K3PEt3JK+SIugw1PsifgEFGHUJQlTMjQYPpSEuCSCZJD2BvUPT+/5HlxFJ7p56gW+fjEAcTCFlL6/FkRmez5xW7Ad1vSAzkHyAEFALKYTkVBNn3clpg4+SygMbyOyk3oTkqqXv/9HSCxYosM57QAb1vfPNVayrkC6IAw==&uid=173373703
 
 #EXTINF:-1 tvg-id="36" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/05t6W7v.png",Bắc Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/345.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TC565w2YPCKO4y/UkDb5gISl8Eyr0POEe/3gbGn2HxCg2zZvh7AcpoOLE+YT+D4THvdpEFKKQl52h5hyCiHQeFMx+gBp9uB8swM7igCDzpyNFpuG+PPOYR/4v/niRHlB2O6NN4KgkLwjQzNZpxmAwXPKLT+FEX/A0yfD05+xIcYg==&uid=173373703
+http://27.67.50.6:18080/345.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Sc1N6YwFz3rBpsWbWB7LLNgF69eb9tnDji4662r1izxJWpI6r4JGwzUuldwsT2ddhj9tkQmct10cDpg9/dJa8X7dewjd6tJpCrKnmNGhnMia01ZqCo2D5f/FKg7rsh6YpItsGTbj6b7zJqpN8U4uK1F46V2gVqkKIBbn7t/tsxGg==&uid=173373703
 
 #EXTINF:-1 tvg-id="37" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/msjevyp.png",Bắc Kạn
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/310.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Qu7ca2Hao8hJHrF3wtJsB1vaVbyP7gD0zcVhTro5j9KVMIk3cgDmz6Fio0h5XyNbaBI68DdohTfX+3SIhx/lfknk69bGHD0IApT1o8ogSOKCOeH/94ShX761qYLZH/BeXQ7S7023Dxc3olzFklp+Ysc/k+NP5UGXnIPTLt2jrdow==&uid=173373703
+http://116.108.198.134:18080/310.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RoXBl1n0BR+ZXKD4Lq0GNJjGJto4l9A+QXYXhDl7O9v9GC3G23jBnYkqwl7qSWwFCcx8Xc7m3duEXcRvYXa5lDhgw9R0hm3QmrfXc7yMk/qwl1Im8wBp84UqjUE4mRmq91kEVT07xVtrar8SAftcwmu7zQZyx4NLnNbpNnIMUOlA==&uid=173373703
 
 #EXTINF:-1 tvg-id="38" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/yNLm1H4m/bac-lieu.png",Bạc Liêu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/392/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MTUsInVyaSI6Ii9icGstdHYvMzkyL291dHB1dC9pbmRleC5tM3U4In0.g99rVe8dBrELI-HVLlhgLt2uJCs_hq7ZUwEKQkevjKg&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/392/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2NzUsInVyaSI6Ii9icGstdHYvMzkyL291dHB1dC9pbmRleC5tM3U4In0.zrI9EZXEuhFtqpWjHiddD8fBBKKB3MgD65e0aOstZlk&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="39" group-title="Địa Phương 👻" tvg-logo="https://i1.wp.com/quangcaothangmay.vn/wp-content/uploads/2017/03/bao-gia-quang-cao-truyen-hinh-thai-binh-01.jpg?fit=800%2C400&ssl=1",Thái Bình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://27.67.50.6:18080/328.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7STx2PXV2IQCzWko9QKAcZSM0GU31mW572eSlkcW1emX5J9aVywkv4q5fYEu/qxHbrbaLDQ1Sy4IxECzZmFfz0pm4XGGoWonYsaQdOscEQ3MzgRQrqfWG+qHjicw/4RvKfaMRprafpVoeBvD+LNUF6HF9/NJPiFywATq5WnJgNOtQ==&uid=173373703
+http://116.108.198.134:18080/328.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RO/hl+WwdZeWibvzkk/NvJS0GPkf6sIacQEzD6gQKnKiGdpEWujZT4oB6QAREWa0Rrn27nquIq3Ap5ij8p95n2IBIHMro1S4STh9Nc5/l7ZKFl1+ZumgcEZlpJLTSsAawTpLo8LAzSkEZHyBEhATNS0dSsMv4avIl+4uabWS6z1w==&uid=173373703
 
 #EXTINF:-1 tvg-id="40" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/9UZtJvv.png",Bến Tre
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/257.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TEZ+omvRYtJphYoUCOdWbKw6BoexX2O9ZZMMM9a0qlF16DQA30+68vVE428t3ER4ASuJbhXJ80HSZG8nzS1qM8V5Wt/kH/AydjWxeBCv/Rfmcc0fTfQgAuM1bVIkFY2U9mxClcGeahdnCVb+jY6MW6MqiUYKVk9cRcgSIWSJoRqA==&uid=173373703
+http://116.108.198.150:18080/257.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SkJj9GHRxIbfeyPDx+QCblC70ZryuplIwYvleg0n2W+jGtOGCO3my/ofHUTOValwPr7QtpoXTDnrzEWcClzT4ZjPRndTH96TTc6tqhtl7nfC/UVssXfuhclJu5Y7efHAMRaH+7pyUymSOuusPLpNJUCZWNkGwapQeOcvRscElrOA==&uid=173373703
 
 #EXTINF:-1 tvg-id="42" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/YPQCtHY.png",Bình Dương 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/315.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7T/h9Wmeey+6Mn5E64hakYBMwBzIn/rAoGiMMD/bOo+eNRrfTkeJ2eEcocItMkkzWj2nPKM8aJTdnT8edqF2USQs8eLfeEyKGYjrh4aDb5ECGT+Uv+kGGqGC/fpBLGExXBVoSyJQYXQ7hgQJJaqehmBCu8luWFDKUh1gQhuVtiqmw==&uid=173373703
+http://116.108.198.150:18080/315.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RJ3yoFEt9TU+YhlAUW6x16hF6+1jIpIgJZ6yjEbvGxrS0ybD2YWKTxfoTG23PMLst0xSvCrDTRF+sxLK3arUUO51wi5AeUmcRhmXixGyxwhOZQr5srjbXf/ir5QdW89SqU7/zXDVJYvSqu+Xe0gExkw8JVsevrEwUoAC4p/G1VmA==&uid=173373703
 
 #EXTINF:-1 tvg-id="43" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/LpV0d3Q.png",Bình Dương 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.150:18080/316.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RFZJUyr8+UIvcun7sdiybrb7COXr8hOm7taqw+XoiMrXTjRS5GrF1LUn3ldjkTPTD70F6bzmR1aI0T77XIw0S31O1ZuP9uVcOxJDToEkbuEIEYXebs9nlM1rSIYY1bIqFGBEP+APiuyX9uh/E2+L7O1VM5wT+faKPRmpRbxPy4tQ==&uid=173373703
+http://27.67.50.6:18080/316.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QTyMEVxF4qwpVB1sG/kV9VkZKEtKYxddlAVy9h0v0CMrEjSy6ux56fS3PA+nZYwUVZj3JLugpcqj64jFlBtta1RSLlcsRg78RYzg/eci0/zJid7/ZR4q27ykFQLu4xXEygdPZiqF+yf9xF7kJd4nOpBwv/X+USTG1qWw+zYuZMEA==&uid=173373703
 
 #EXTINF:-1 tvg-id="44" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/DHWoGfP.png",Bình Phước
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/324.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QbWB8uOfowrVLz5A15DUkg6h2vLNweUpHeMLZVtZ4/MWnmKfClVikNg8+AdP51A+GOM+yexyVKXjb/FQqUSd7FZm1Jba/WS4c6Ysef5T0NyK9kMczzOK/9qzptwD4Ey7qXQmh0N7MR1/eG/+mrsPYYvbHpIXQasqH4hycgZixcLg==&uid=173373703
+http://171.238.180.86:18080/324.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S5UIPC080TOVoFjA8BpH3tWUJloSbuZKSjJbOVGwkdOi0j6BS4/GdPho0H5a3jOTaT64pjTSaabcOKgf2jW964MCDAGmqGul+Uq4uHkO2NnTdt/Or9+M1l94b+BWTMmVx7W7WZeX8L+gz3y4xz1pVT0HMENaEfQVJfcSnKXzSfNA==&uid=173373703
 
 #EXTINF:-1 tvg-id="44" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/DHWoGfP.png",Bình Phước
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/324.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QbWB8uOfowrVLz5A15DUkg6h2vLNweUpHeMLZVtZ4/MWnmKfClVikNg8+AdP51A+GOM+yexyVKXjb/FQqUSd7FZm1Jba/WS4c6Ysef5T0NyK9kMczzOK/9qzptwD4Ey7qXQmh0N7MR1/eG/+mrsPYYvbHpIXQasqH4hycgZixcLg==&uid=173373703
+http://171.238.180.86:18080/324.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S5UIPC080TOVoFjA8BpH3tWUJloSbuZKSjJbOVGwkdOi0j6BS4/GdPho0H5a3jOTaT64pjTSaabcOKgf2jW964MCDAGmqGul+Uq4uHkO2NnTdt/Or9+M1l94b+BWTMmVx7W7WZeX8L+gz3y4xz1pVT0HMENaEfQVJfcSnKXzSfNA==&uid=173373703
 
 #EXTINF:-1 tvg-id="46" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/QMZ7jdyK/ca-mau.png",Cà Mau
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/323.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RK/65TfLumW94YI2+Tjpp3h4EZe0Y9eGrnQtF75FA45F3/3MqvhnuXFUM+TL1IyIgvwIJ9xa363XZzwDi740Ky8jYDLhNH97dYL2CPYu0FJD+EZ7PULYMKdERN7W7kZi10xi59KBWzwebwaiJ8jsEiXINo4igesKOQfzQfCCNk8g==&uid=173373703
+http://116.108.198.134:18080/323.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SxvxkXyjQdAlpa/wKleSKzp13Qz1dA5yPFjagUG1ClBVEPye/AjC0K5rcnp0VqQ9gRlD3spBxxL7uoKR9Qtcl6zf9gNJ4NoAIbAkZ74Rkh0RTFwhUA3c6mlSycnwGUA8mSB6j0xbVHMI119/K7CSVH8siTzDWm8KiVuEs2xtcBtA==&uid=173373703
 
 #EXTINF:-1 tvg-id="47" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/TPVrhnVV/THTPCT.png",Truyền hình TP Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/326/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MzAsInVyaSI6Ii9icGstdHYvMzI2L291dHB1dC9pbmRleC5tM3U4In0.iuIUJ9QG1_FOtrZBTi2Dkbeuu1C9cs3fNzGa35RISzw&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/326/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2ODcsInVyaSI6Ii9icGstdHYvMzI2L291dHB1dC9pbmRleC5tM3U4In0.vkOSPRbC2cD0acjQ0GEHNTWvgc-1TWSO3SRozL8k7U0&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="48" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/dVBHygc1/cao-bang.png",Cao Bằng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/364/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MzAsInVyaSI6Ii9icGstdHYvMzY0L291dHB1dC9pbmRleC5tM3U4In0.1II8ysvvF82DtDVupa-2lJuJYurtaVR3wUU_JVcbNA0&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/364/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2OTAsInVyaSI6Ii9icGstdHYvMzY0L291dHB1dC9pbmRleC5tM3U4In0.yq8Q3twAxDFDXcCca-lAcA3ScF1DHpO6uE_i_Ua__nI&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="49" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/6OWQ8lU.png",Đà Nẵng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/436/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MzMsInVyaSI6Ii9icGstdHYvNDM2L291dHB1dC9pbmRleC5tM3U4In0.X_fQX_fSAeFao6jaYveXQVOwDUs-d4PorgxUxp_NUZo&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/436/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2OTAsInVyaSI6Ii9icGstdHYvNDM2L291dHB1dC9pbmRleC5tM3U4In0.tSbfnRYXzrvopleCKHitn5QwDQY5sUV1CTK93g_njh8&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="50" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/GtwHr72P/daknog.png",Đắk Nông
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/394/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MzMsInVyaSI6Ii9icGstdHYvMzk0L291dHB1dC9pbmRleC5tM3U4In0.bUbE_SvpiqJ8_B-AO0ve11nZabfjsuhkJIXW1YaY9Hw&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/394/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2OTMsInVyaSI6Ii9icGstdHYvMzk0L291dHB1dC9pbmRleC5tM3U4In0.P14wdgGScedFNZk8ice6H5p_BSfDQxbUZXE16wBTX7c&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="51" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/0js2hzWc/daklak.png",Đắk Lắk
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/273/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MzYsInVyaSI6Ii9icGstdHYvMjczL291dHB1dC9pbmRleC5tM3U4In0.WTVyQCgFegrL_x96Js38fbQ06SsLh2uZIqm0kDgwcik&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/273/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2OTMsInVyaSI6Ii9icGstdHYvMjczL291dHB1dC9pbmRleC5tM3U4In0.1ui3Y4w4bl59D4gKv-loNFFliQk6W3lubYmgPfkqy9M&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="52" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/8z9GqFsM/dien-bien.png",Điện Biên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/395/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MzYsInVyaSI6Ii9icGstdHYvMzk1L291dHB1dC9pbmRleC5tM3U4In0.GicraaAIMrnMMVjNFdkk1U_ppSleY7Ty-tbxgvn8JY8&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/395/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2OTYsInVyaSI6Ii9icGstdHYvMzk1L291dHB1dC9pbmRleC5tM3U4In0.1ryyAK6mPeJB7R4c3HHo4FIFXGxegUVRFLQIibE83bk&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="53" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/blOZQPI.png",Đồng Nai 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/371/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MzksInVyaSI6Ii9icGstdHYvMzcxL291dHB1dC9pbmRleC5tM3U4In0.aqKAYp1js-GNa4dj9m50dWyGHft5nFxoCo2Ze05d8is&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/371/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2OTYsInVyaSI6Ii9icGstdHYvMzcxL291dHB1dC9pbmRleC5tM3U4In0._05ZONxqjyZdfW2p1Jy90xv4lZgqzjb3jiXQgEtsMNQ&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="54" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/UfOw13y.png",Đồng Tháp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/372/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MzksInVyaSI6Ii9icGstdHYvMzcyL291dHB1dC9pbmRleC5tM3U4In0.UcRprbq-GRLx8ke6FQOktHTPv1pZlwRr9gzJL02csXA&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/372/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2OTksInVyaSI6Ii9icGstdHYvMzcyL291dHB1dC9pbmRleC5tM3U4In0.dz9_JcIUSewmq5HZ_0_QjWeRnLZ0NF6QsYT1rNo4960&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="55" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/csqFzvA.png",Gia Lai
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.150:18080/259.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SbniVUg1FkYFYs6Ep8n5jWJcZR9lebYUznYqH15oZJrEbxzlpvpeVqan3K456Jxo61Tt7i2u9MZrCwEpmYQ/nKDJHvzYmTGBrD50zsBmeLdlxjzMXJWJsvEHEo0jtUqgm1+WEg4JRvbWYbemlrkp4wD95yJ7w3P/Nky+pbtNfcoQ==&uid=173373703
+http://27.67.50.6:18080/259.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RYeGrALSYvE4RBN0otJBlcfVvD0LlvJJPnK/QgrPUfUCss9xvkPNelmlpxcTHh5zfsKscmP2ksiCgYhBAHpWIDITkfVqOmzyCgGUuxEwXjQytvvHJpsf68cQUMggu6xuziBt1XlJnbMWik5PUta06Zk4+C/xj2e4Hott+Ml1IkuQ==&uid=173373703
 
 #EXTINF:-1 tvg-id="57" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/DCSPntI.png",Hà Nam
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/358/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NDUsInVyaSI6Ii9icGstdHYvMzU4L291dHB1dC9pbmRleC5tM3U4In0.5fuecscURORHMlUi5VDBWXjxBj_D6pvVv7sVlVad--w&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/358/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MDIsInVyaSI6Ii9icGstdHYvMzU4L291dHB1dC9pbmRleC5tM3U4In0.kle9RY9-i7xV8hm6B_aRPmNY0aAOEeiGjoahiWPzfpY&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="58" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/R4uthe7.png",Hà Tĩnh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/365/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NDUsInVyaSI6Ii9icGstdHYvMzY1L291dHB1dC9pbmRleC5tM3U4In0.p221iUhWeXXXALpA5I9mJVtVFsT8enDubEimma6kFV0&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/365/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MDUsInVyaSI6Ii9icGstdHYvMzY1L291dHB1dC9pbmRleC5tM3U4In0.YANaHa1ECJFlb_vnw0_75FD5mIfE83TIbI1975oeD48&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="59" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/QmzXd4R.png",Hải Dương
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.150:18080/317.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SwEL+jyU2MfI719IbHFfBaqRTsaqODpm3EaNzNs9Jglci8xRBo9bTjrK/s6bjZe7Jb4ziJ+p1PBLFk+/3DnLRVhjCaRH8+zdp4SyxKumtrqTmrKfdNbAB8gdZp38BlmbuE0MY1ilZtMS+18lxdYbWnNVQuz+K32BMbOLDoxozaIw==&uid=173373703
+http://27.67.50.6:18080/317.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Sgg/LUqr+BI/fdg6F/Zj2akvjbeAZ6qeQwo98Wtp1+bs9iYKW6f7wTw480n6R2ftCTd8/xpgmFXTdPltUWESZ+IW/6cUzjuMuXPU2DTaJjHAW3rpy0AEfO2XKoFob+aedsKtJGtD6F5O23ADxDOC6BODdjMo3kaPKcIOY5Lpk6NQ==&uid=173373703
 
 #EXTINF:-1 tvg-id="61" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/q733SyDf/H-u-giang.png",Hậu Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/397/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NTEsInVyaSI6Ii9icGstdHYvMzk3L291dHB1dC9pbmRleC5tM3U4In0.Lgo-S3RZMMeFPYSKnCoWW16mkgBq0HCA1JPm2zwCp6c&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/397/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MDgsInVyaSI6Ii9icGstdHYvMzk3L291dHB1dC9pbmRleC5tM3U4In0.iLnyoSHchT2ZcR3idTLLkygDhRvt5WX8in06clXyc00&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="61" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/q733SyDf/H-u-giang.png",Hậu Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/397/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NTEsInVyaSI6Ii9icGstdHYvMzk3L291dHB1dC9pbmRleC5tM3U4In0.Lgo-S3RZMMeFPYSKnCoWW16mkgBq0HCA1JPm2zwCp6c&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/397/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MDgsInVyaSI6Ii9icGstdHYvMzk3L291dHB1dC9pbmRleC5tM3U4In0.iLnyoSHchT2ZcR3idTLLkygDhRvt5WX8in06clXyc00&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="62" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/cgKnwnX.png",Hòa Bình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/373/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NTEsInVyaSI6Ii9icGstdHYvMzczL291dHB1dC9pbmRleC5tM3U4In0.YTbFDfqkoGQauhfMWFbJOHOOhxyg6yCu-15Ttv6IxMk&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/373/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MTEsInVyaSI6Ii9icGstdHYvMzczL291dHB1dC9pbmRleC5tM3U4In0.-kNYenO1yk7X3jRdJhXUJcoRDYfrZjpjlYOni1BpCS4&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="63" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/29px2Qy.png",Thừa Thiên Huế
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/322.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QhZyTe4uTlwd1LhCsVyTFyX4B+SIxi+EnwYOTXxLU9okRalkAjXT2jxS94poADNw3od52UpRrhHZLgjXJ5xidXkgXbs2xELJPlAuFOaU9sBAKjV8UWUnRcxiD9A6HFCMRT2qP2BmNg+TrXeIJREXYEUv+0gWHF13Us7l3Roenmpw==&uid=173373703
+http://171.238.180.86:18080/322.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TFQbn4S17/B1svNbpYp1PL2S1DIqHdI+L9G9Ks2G5ZIeBzXC/d5SMJaTyU7PcGBYVrse85psTKorMmSqgpiP6heHOQ0q+HSYp8OnHKufuY9FSynyzCB83FBI3c5DRFEVWLB7qnYcl/ASATq/n27VG4+RV9zfQoqWOSMwPKN6IQAA==&uid=173373703
 
 #EXTINF:-1 tvg-id="64" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/deNnP9h.png",Hưng Yên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://27.67.50.6:18080/325.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7R4ygjiwHkd2YYafsKtP4bHWSNU5mgR6BaUkloxEMDSEsA86b4nDhgZMuQJdKGus0/GrrOQfhvhrq8ZE5d+yQKnW7P0CuaQ2iG2LzzenSgI7VJfwwTi+dkEx0Fo0C5Ni0Of6PybYyFM4IZ72asgm8cSwrodeznB945zPq5PtD7JIA==&uid=173373703
+http://27.67.50.6:18080/325.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TTkAZoGT6vhfxrgMavrFRJWgcAwnTWYkofMScYnjcIg70iPgEwuIpv2e1lhUA94ioJegnnZ+CwI2g83bwreD6xS0LTgv7gR6ZXdadvJnRvIgbHYl1l39AFDeL1KyShGf7+4rXPmpSA14HOOSCuYSYD+Q/XLaliEpJMbmcAhindMg==&uid=173373703
 
 #EXTINF:-1 tvg-id="65" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/fypKYDJm/Kh-nh-ho.png",Khánh Hoà
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/318.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Tpp1f4oWyIfAA95DZ2OFV8vMlb6KKgIRqg4cy6vxSwu2MDSRyjXH/EohqBiatqaRyLpDo5e/Tl+LVvSXAm+Af34noRT195NZW85snsQHTRAWMVpMgYIVOLsFmvsY07jqhNAVqsVoZ9o2F6Xy0FD8DU6kmod6OuGrnDABjwGORXYA==&uid=173373703
+http://27.67.50.6:18080/318.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RTBpqNTWrZbmmkYUq+HYIfWI5irn8FVN532b2PLuSnygPSWl3AGkyRm3LE9NJFCwK/ZF7dLw51eEYMKYiTpyY3HjYx/mz+BVnUqMGYotBz3lQ6tzWzrXa9WorPAlEJwpQgpvN/oe/oYEupz6k3MrYap3Kfr1tgyNXbzIl3o7Hf1Q==&uid=173373703
 
 #EXTINF:-1 tvg-id="66" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/yNYGT6LS/Ki-n-gian.png",Kiên Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/424/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NTcsInVyaSI6Ii9icGstdHYvNDI0L291dHB1dC9pbmRleC5tM3U4In0.IsZPNCi4OnSiY5HzPDitekhgczpwybOjjpNIODIAiaQ&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/424/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MTcsInVyaSI6Ii9icGstdHYvNDI0L291dHB1dC9pbmRleC5tM3U4In0.TnBbhh_pMvzap65pUJC5lCTUpAgc_N5osdHV4Ygh_40&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="67" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/C4yYbbi.png",Kon Tum
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/388/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NjAsInVyaSI6Ii9icGstdHYvMzg4L291dHB1dC9pbmRleC5tM3U4In0.ppfWTRIhLvPYWlsT08aSfkkf1ITx6-Zm63m9rOztLD4&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/388/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MTcsInVyaSI6Ii9icGstdHYvMzg4L291dHB1dC9pbmRleC5tM3U4In0.UKSOsX4sBxSVnWksMVCOM4PyBtGhu5vU-3FH4MsYpHo&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="68" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/we3GCjr.png",Lai Châu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/374/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NjAsInVyaSI6Ii9icGstdHYvMzc0L291dHB1dC9pbmRleC5tM3U4In0.JULySvnPiY2JbB-rEPc2lyq1Yq01j_HnbkshqtTWvMI&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/374/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MjAsInVyaSI6Ii9icGstdHYvMzc0L291dHB1dC9pbmRleC5tM3U4In0.muWk0nDzwhNcMPVtRSUncTjOOv7A1iEnEE_CX7ZrbOQ&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="69" group-title="Địa Phương 👻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ujYUde01z4SiNNfCuIM3HaZYxEqzAP0osA&s",Lâm Đồng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/375/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NjMsInVyaSI6Ii9icGstdHYvMzc1L291dHB1dC9pbmRleC5tM3U4In0.2HMOitofNaOfnVjp4DRHL1BJUW3ffwpJKbpVqqv7Emg&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/375/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MjAsInVyaSI6Ii9icGstdHYvMzc1L291dHB1dC9pbmRleC5tM3U4In0.gtZazmReeAWk6YmHl52TDXseCK3u5fhilOvKIOnasHk&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="70" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/6FCXyrr.png",Lạng Sơn
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://27.67.50.6:18080/321.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TDkb2fNzOT/BaSpziogu9z4bUDb05qAAALhXzxYjYYKrwDRFycehBM2MG7rJFUjVnH8RbFQZaiFQL4Yr19B/mcUh6SmVETDlyYKqf/FPZQF+uqwGRDehm+5dBm5ii9CD8djCfJ6bgT3MyhJXwwr1MVRkrdhHJQW9uTzEFmTlUl/w==&uid=173373703
+http://116.108.198.134:18080/321.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TZgCPqzNI0dW+SmUyPYZdbFM9DylBEtNIMnlMGfklC8DfPvUce7NIMxSUOn9KD3zGnNFEhGWdoxKAXlP3Nsn1+rPHvQMoIpXMbf7aGr+WWdp97aoF9hWCfi29NoLsevyAOXsLHyBOYyyVnllt7wGZNoDjNgavnv6schwMXmFLgOw==&uid=173373703
 
 #EXTINF:-1 tvg-id="71" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/s2vkrD5C/Lao-cai.png",Lào Cai
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/385/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NjYsInVyaSI6Ii9icGstdHYvMzg1L291dHB1dC9pbmRleC5tM3U4In0.XPDmrvMEIGTP3lYHW-rZxxjqo_R0t1YTWveM8FzP9-o&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/385/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MjMsInVyaSI6Ii9icGstdHYvMzg1L291dHB1dC9pbmRleC5tM3U4In0.G-RhEt37sNwn-AUXVaN44CNX-iAs8qUPxX5UQsCbxsE&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="72" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/sDjg77pj/long-an.png",Long An
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/434/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NjYsInVyaSI6Ii9icGstdHYvNDM0L291dHB1dC9pbmRleC5tM3U4In0.w0H_artZtDEAcsFCO0WNgWqWVEzyAUhCi7OH6sJNbTs&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/434/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MjYsInVyaSI6Ii9icGstdHYvNDM0L291dHB1dC9pbmRleC5tM3U4In0.hqI4pQmCbPOdmeJoOyhCcCdDOvqcPAZDIN7rSIXbmEY&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="73" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/5HEfwZz.png",Nghệ An
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/335/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NjksInVyaSI6Ii9icGstdHYvMzM1L291dHB1dC9pbmRleC5tM3U4In0.DG6uBzHmM_6kCRbG7IVhpijoQCgz5dlY4gXS1WJKJ08&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/335/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MjYsInVyaSI6Ii9icGstdHYvMzM1L291dHB1dC9pbmRleC5tM3U4In0.7OEpqWp9Yta9GOMYa4Pg8dSNk0nisB5pVdG-RDnXoEA&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="73" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/5HEfwZz.png",Nghệ An
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/335/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NjksInVyaSI6Ii9icGstdHYvMzM1L291dHB1dC9pbmRleC5tM3U4In0.DG6uBzHmM_6kCRbG7IVhpijoQCgz5dlY4gXS1WJKJ08&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/335/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MjYsInVyaSI6Ii9icGstdHYvMzM1L291dHB1dC9pbmRleC5tM3U4In0.7OEpqWp9Yta9GOMYa4Pg8dSNk0nisB5pVdG-RDnXoEA&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="75" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/XuYnZWe.png",Ninh Bình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/376/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NzIsInVyaSI6Ii9icGstdHYvMzc2L291dHB1dC9pbmRleC5tM3U4In0.EBq32Tukl0sOkZ3haUNNOqsM6RvJgCMUZ78la_8Z_AA&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/376/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MjksInVyaSI6Ii9icGstdHYvMzc2L291dHB1dC9pbmRleC5tM3U4In0.yOkQtstIyMvxH2l5E8mOtjyhNJSzYK3nocNr6nJOUqY&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="76" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/cx5AaTV.png",Ninh Thuận
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/319.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QI+kb1PuXCafMbuygOZsyuawBblr+eiwp42a9fVVn/2dnzT9jzLXHpNPS3l04WDyaCx6q+IPAH8+pnPxsp54KUW4XVP2gBsX0BdMIPzLFfI9HbzHpIqwnU5Ut+RcLdYGWzjU7TysUceeHYRbwh0dqNDc804qEd/XdYnv1ohSTeeg==&uid=173373703
+http://116.108.198.150:18080/319.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7R4+bHs7b+9aX5gUsRjx56g9cW6Q7oSShrj3+qQ9X3Gz4PLcHrWJ3unGuiN+jnqrcaKgT5b+i72vlkLtp5KESkLDyvxFIXLpuwYfm8eKCpgnX9GZ4vMgp0+qGacD6qTO0PAaphExpOmbLmQoVZZbXHk2DDY9Ary9d8f6ReImpt0WA==&uid=173373703
 
 #EXTINF:-1 tvg-id="76" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/cx5AaTV.png",Ninh Thuận
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/319.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QI+kb1PuXCafMbuygOZsyuawBblr+eiwp42a9fVVn/2dnzT9jzLXHpNPS3l04WDyaCx6q+IPAH8+pnPxsp54KUW4XVP2gBsX0BdMIPzLFfI9HbzHpIqwnU5Ut+RcLdYGWzjU7TysUceeHYRbwh0dqNDc804qEd/XdYnv1ohSTeeg==&uid=173373703
+http://116.108.198.150:18080/319.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7R4+bHs7b+9aX5gUsRjx56g9cW6Q7oSShrj3+qQ9X3Gz4PLcHrWJ3unGuiN+jnqrcaKgT5b+i72vlkLtp5KESkLDyvxFIXLpuwYfm8eKCpgnX9GZ4vMgp0+qGacD6qTO0PAaphExpOmbLmQoVZZbXHk2DDY9Ary9d8f6ReImpt0WA==&uid=173373703
 
 #EXTINF:-1 tvg-id="77" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/Qx7gRLFY/Ph-y-n.jpg",Phú Yên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/320.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TC6x8hAyuX9zzpxUQGgaWDrpgE2gpQdaTnJfvdyDdOvHOYkLUTA1LeCXYtdgEx7CvgAFF9cy8Saaq+plkkiC74MKcwa2VFgr6LzwGBOAGxi4f7Nogo9zHjXf4SwogyVrTCp2vATwOHjxEM0nO2assZbi9QzuXi5y/QPivzK9Hbug==&uid=173373703
+http://116.108.198.134:18080/320.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Twd2kIV4JsGrVoerHz0oXJK2k7P2BLe+1AQ7RXDg2L391L5fDl3TDudjk+TgWkKAaT2ZKwHBQK96EloZQy/yQxUupPQo7OM7xg8jxN3883jI1gLp9jCSJj4rZov96n3hvHyV9Nsol5bweah03Mua0/1UrMA7fOwywEgQkAJqo5BQ==&uid=173373703
 
 #EXTINF:-1 tvg-id="78" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/5OZ2hAB.png",Phú Thọ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/361/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NzUsInVyaSI6Ii9icGstdHYvMzYxL291dHB1dC9pbmRleC5tM3U4In0.gqzKjZjy-EyiRt9GW7oOLfJtjyMRPH_c0KVptAv-GrU&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/361/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MzUsInVyaSI6Ii9icGstdHYvMzYxL291dHB1dC9pbmRleC5tM3U4In0.K_nsH-E__PXJAa_CkLSbftWW65RQB6zfpE_f3mMu2jg&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="79" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/8yOdFDx.png",Quảng Bình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/382/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NzgsInVyaSI6Ii9icGstdHYvMzgyL291dHB1dC9pbmRleC5tM3U4In0.KMLJB8pHm4enoBfig80YavAJ8oWdoyka4cAPYzhW8M4&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/382/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MzUsInVyaSI6Ii9icGstdHYvMzgyL291dHB1dC9pbmRleC5tM3U4In0.TdqJjMx9zGupEdq7O8S2fGHoJ6G6qnbUVl30rVRRzw8&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="80" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/uWHWxZB.png",Quảng Nam
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/377/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0NzgsInVyaSI6Ii9icGstdHYvMzc3L291dHB1dC9pbmRleC5tM3U4In0.x9JHAaHVSLMI7qR2QPLvkaLMKXwy0gjEx9ndAzm4eco&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/377/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MzgsInVyaSI6Ii9icGstdHYvMzc3L291dHB1dC9pbmRleC5tM3U4In0.U1O3J_TZvqWlr6hMuHifcp-a8xtdO-yrmuu1pzb9k1U&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="81" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/McmKwa8.png",Quảng Ngãi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/366/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0ODEsInVyaSI6Ii9icGstdHYvMzY2L291dHB1dC9pbmRleC5tM3U4In0.sVjWbJFRoVwtqRplIY6wuq7o4GFs6GzyyaxwqJCxXnM&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/366/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3MzgsInVyaSI6Ii9icGstdHYvMzY2L291dHB1dC9pbmRleC5tM3U4In0.M4iPIHKUDF15j0is-FDC4HfUSkC0bl7FrkdVSrbsB68&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="134" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/4hadYbw.png",Quảng Ninh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/390/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk1ODAsInVyaSI6Ii9icGstdHYvMzkwL291dHB1dC9pbmRleC5tM3U4In0.rc28HhXt1yC2Kc0vUEazU8x3ytB34ut_BEgLunGs4IQ&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/390/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4MzcsInVyaSI6Ii9icGstdHYvMzkwL291dHB1dC9pbmRleC5tM3U4In0.CvqjnU6rxm2uqIS_LJ6_lmTVpRaMYLBhAlXDsjx1pyk&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="83" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/4TLTYfu.png",Quảng Trị
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/260/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0ODQsInVyaSI6Ii9icGstdHYvMjYwL291dHB1dC9pbmRleC5tM3U4In0.1aZrDkmp72Gmmzs-yc0IP4zL4YV5Q8T82EsQ5fP5R9c&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/260/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3NDEsInVyaSI6Ii9icGstdHYvMjYwL291dHB1dC9pbmRleC5tM3U4In0.hsaepJFY79L1rw-vY_izkXf4oIVwKOl-PACzpnwPIcs&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="84" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/5KQJoBg.png",Sóc Trăng 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/362/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0ODQsInVyaSI6Ii9icGstdHYvMzYyL291dHB1dC9pbmRleC5tM3U4In0.2uEWNG8tDLZCfPVfxEmAM9eBcWYFz_kh8XNLzBl1gNo&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/362/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3NDQsInVyaSI6Ii9icGstdHYvMzYyL291dHB1dC9pbmRleC5tM3U4In0.DJSsFtvUsRhJiRhbBd7inAD8aanKboE937umkwAkaK4&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="85" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/bwTyJJGG/S-c-tr-ng.jpg",Sóc Trăng 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/444/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0ODcsInVyaSI6Ii9icGstdHYvNDQ0L291dHB1dC9pbmRleC5tM3U4In0.b3WA57eLuPRvWYjS4S2UWpt7_RrLpv9zW7fqoanzu7M&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/444/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3NDQsInVyaSI6Ii9icGstdHYvNDQ0L291dHB1dC9pbmRleC5tM3U4In0.MjkD5FLAzhXGckK9PZGz4jl-QyL4LQLdsLewNf_k7dk&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="86" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/0DU4cyg.png",Tây Ninh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/430/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0ODcsInVyaSI6Ii9icGstdHYvNDMwL291dHB1dC9pbmRleC5tM3U4In0.qds9xXnIqeyks2h0YfttMvm32l4x7XdhHnb2LEUDYQk&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/430/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3NDcsInVyaSI6Ii9icGstdHYvNDMwL291dHB1dC9pbmRleC5tM3U4In0.DDBIddsWa9eoPQW_mTiotzw8Nf6nFEdJNv1E0Fd13uU&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="87" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/6RPgRE7.png",Tuyên Quang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/311.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Ti5E1n/k7LOd6OSx5lL50cE8sbQsUV+wdSpHqg3SJrdz0EUJTUBypOyNeNSDXk6V1dfWLEbOaqdbIlEkUr+kueNJQYwP9AHyi39HwcuPpwMZxSPG8wbV8VjX9G3qeKYpM75feQ8ajKHobZ6tYn9T0BbM5SzPkuUv7Thm9+le3JrQ==&uid=173373703
+http://116.108.198.134:18080/311.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RTxb+i69gaoUHiGlXv2le0C1P674jd7TuggnDGUbcqabXR/3yJFTcEPa+oVPcDvffj5itg48vcdAp/MxarJO/101KRQsCiQlYvmVxS/uyljjRDxdowR5NP/NeWx3ij0sxaIyD218NQfs+gUbmmgICe8+rL1nyifXSInlYr/Y9l3w==&uid=173373703
 
 #EXTINF:-1 tvg-id="88" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/UBcqMiY.png",Thái Nguyên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/381/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0OTAsInVyaSI6Ii9icGstdHYvMzgxL291dHB1dC9pbmRleC5tM3U4In0.lvKQ3UCGYFH9gTDtyim4eBeY97e-Au-ZjziCUVIJuxU&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/381/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3NTAsInVyaSI6Ii9icGstdHYvMzgxL291dHB1dC9pbmRleC5tM3U4In0.kJz7uS2NG_1rS7yUJ2zGC-0NLNCAU_WFMJzhnf78KXw&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="89" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/NlOwltd.png",Thanh Hóa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/383/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0OTMsInVyaSI6Ii9icGstdHYvMzgzL291dHB1dC9pbmRleC5tM3U4In0.9IORWnAsw3fAY8Kjbqsmir42PZ3vVjwIQAIEZjGCfP4&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/383/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3NTAsInVyaSI6Ii9icGstdHYvMzgzL291dHB1dC9pbmRleC5tM3U4In0.XVw-yS_zE56inspD3me6HynQ8H9tTwGLwB7pIfh99Mg&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="90" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/NkHFZ0D.png",Tiền Giang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/363/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0OTMsInVyaSI6Ii9icGstdHYvMzYzL291dHB1dC9pbmRleC5tM3U4In0.S3qlLNniLOF29gmMpb6d2W20oTIiR0l4EzwChtUgtdw&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/363/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3NTMsInVyaSI6Ii9icGstdHYvMzYzL291dHB1dC9pbmRleC5tM3U4In0.grV9phq6OIz8megL40OU4BUYCeEVO88WfhC6M4DZwbE&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="92" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/dHOm6Ll.png",Trà Vinh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://27.67.50.6:18080/303.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RQJaoZNfHTvFLa0Dugidrw6lArWKi5IlaK+JkIZMhT3mAIE0PH8u6DGdSpjBJSHrbzrAoayhw8riO6eG/hOzHCZKsrVvfXIHSm7Dr5TfCN92UPfphjwwZcFhCJSy+SJ2Jm3OsMPrj5CgnPq7NfWmclwByUAqkL72ZPGGCMYxBx5A==&uid=173373703
+http://116.108.198.134:18080/303.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SRQx196UdXuwND8vbzT3nduSQEnrkCaqn1vuvjhggBp/GFlNkmScqsUfb7793q+tBD7MRuJMXw9s2TUgE5jR/pgcNHboJeeEnkpc+/MNiXRuPbgJLiNTp5LCDkOcd6z9cJmp6fKeXtjPf5uDpmgND1Gm06/KsVBhA8DLk9dgsKGQ==&uid=173373703
 
 #EXTINF:-1 tvg-id="93" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/rrxDn5n.png",Vĩnh Phúc
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://27.67.50.6:18080/329.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TsDVc94w8fPyyKyNNSGUBr0gZ1LlDKDaQjMjPE5uW0ZIPjGZkEDNVHY6pNl7T4TNEMCbzOGbCpZP+TChiBdQuRo4thZyk20hZwUGu8xs03mIOqkHVQAUn0dTDgtjiNsb1u/GtXVMDmYkVIB4v9qCAoqsq+ZaELw6LoecUg9EPTzg==&uid=173373703
+http://27.67.50.6:18080/329.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TvawKCiUT3LcQLh+uN/ojqLwBk6YyzUIGZwKR+6LaqEhDM4KLWSYlrs0qxDU4yqv91WS6+EdBAmTRX5faw+rD3xZRvpa3jt9KjEEl9y49/odiUKZ2ObyT5JId7XhtpR5W0TOa0G8xgYTdEOYGSWSa2B/V0iSV2vdH8581WoiFg5w==&uid=173373703
 
 #EXTINF:-1 tvg-id="94" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/KX2RMXR.png",Bà Rịa Vũng Tàu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/435/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0OTksInVyaSI6Ii9icGstdHYvNDM1L291dHB1dC9pbmRleC5tM3U4In0.Jj7KtBNoFfNrw-R-aP3K0fu9N3Akazm7pJH4VNPvb8I&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/435/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3NTYsInVyaSI6Ii9icGstdHYvNDM1L291dHB1dC9pbmRleC5tM3U4In0.zNJuWHoYHDo4fj9_R2HGlcvUHICSpAYB6yvAkA9Bvm4&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="95" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/AELRXuX.png",Yên Bái
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/258/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0OTksInVyaSI6Ii9icGstdHYvMjU4L291dHB1dC9pbmRleC5tM3U4In0.tDAxwDihqtVjzYU6kGDn5gDkGJdMEWN2ye3Cgr2rhEc&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/258/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3NTksInVyaSI6Ii9icGstdHYvMjU4L291dHB1dC9pbmRleC5tM3U4In0.BPO65FRU9YUtjWe0HdxiXSMJ3HJ0SctYxYWNcc_Q88o&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="96" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/287.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7T/GFn+dinEW2YDAHe7PwbsE0k/5gIZUqAG07ELIgMFUKPoi1So1uqkF2bjfiUCOztQILL6/gNS3pQJ6cEedRV9sn8rx/NbrIB0Rnyfh5JAdaX3ko7oFco5XH8cauhAXQlNk8a3Lap1nzlHjKwmyi49tj1Mu8gOYRXwiwIw6IaEAw==&uid=173373703
+http://27.67.50.6:18080/287.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SuPOQyignfC9ChD7qokPdMBhuK8dIMayHcvwWWMBBsx0N1aBt2UbGlYOhmZHLYrREalVcVwNKtHYd6wMwQ6zZjmPopf5DPWvq4FD97cWKUTjeY9Kmaj6ODSCqOKPUe/rIO9eNBdZ3Q02mJlTEA/HiA5X1OksL7Ze5piBrshnlmpw==&uid=173373703
 
 #EXTINF:-1 tvg-id="106" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.150:18080/276.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RfymdDm56odBZDMKECdyz80jFumMmDLnth7EiOPkfA4ZkWZQCuzmj2jF9iW5OtEYOA30MLrGI+YhMxjRHDdzqW23xt2gk4ylMLXup8U1m/0iy1JOweh1LVEiZaUQkoosfKUheXeXevQCb+mfYnmZsaQJAQOdNR/Ayqlf1OYVQoqg==&uid=173373703
+http://116.108.198.134:18080/276.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QdaEvq0/kE2ylOfH0D6Fn2Gw3ItUEWKkBLVJUMgptbxj2ohADJWeHcUfjmBYK+LwSL9WFFrzG3TKyR0ET7eve6uh/VOj2myiC1A3oQRj/USxxo24gDSPPIBMv8AbTj3XnWfQxOlqWpWzIhqfdVb1G/Q2iGnRojl0HRsi9Zj2IUiw==&uid=173373703
 
 #EXTINF:-1 tvg-id="109" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/432/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk1NDEsInVyaSI6Ii9icGstdHYvNDMyL291dHB1dC9pbmRleC5tM3U4In0.NImvsopr-zYzHMrKs-YY-G53lR8qpl8zzfDscwBZypQ&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/432/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3OTgsInVyaSI6Ii9icGstdHYvNDMyL291dHB1dC9pbmRleC5tM3U4In0.FFgUH8JkbS5i25j1Di6Rw3YmkS8OmtAru7gsfxpEakE&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="111" group-title="Quốc Tế 👻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/150px-Arirang-TV-Logo.svg.png",Arirang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/70.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Rh/ynlRf6CUbXzYmEn3C5tOLym67GkRPEeAsRZASuuorgyRqioEV3J50p5cZ45HGlV3z+FaD/ox41qWTQEgsQIKGxtifWzdNdEXqy5ulAV2GOELso7IP1eqy4SkmVKsI98mKcXpkYGHgzt57yt2SvriBJ8Sx3HTOW7zqGzFj4ofw==&uid=173373703
+http://171.238.180.86:18080/70.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S4kwj0l9Bm3jU2lIxAmxGxSYgcR1tjM5+L3MIp0d+inFQR4L7O1mJkkpY5YHE3BY/VRYhz0+isxfhL8vWeUin5htFe5J1z3j9iWCIufHYUZ4f93V3zfFqEvnJ1uhCi3TmyeqgSQCnJigHH5zDZVqN0g8BwrYOKLNrmA2/gPI8I/g==&uid=173373703
 
 #EXTINF:-1 tvg-id="213" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/422/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NjEsInVyaSI6Ii9icGstdHYvNDIyL291dHB1dC9pbmRleC5tM3U4In0.WEQH88PgAKScvYhpAbG0AYl88UM2b6InHR0C7r41-kA&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/422/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MTgsInVyaSI6Ii9icGstdHYvNDIyL291dHB1dC9pbmRleC5tM3U4In0.3jJCkEWFT2_d1JLxNMeqs9xjcro4DMTZekVu5IQX9HY&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9852" group-title="Quốc Tế 👻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/200px-Logo_TV5_Monde_-_2021.svg.png",TV5 Monde
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/24/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2ODUsInVyaSI6Ii9icGstdHYvMjQvb3V0cHV0L2luZGV4Lm0zdTgifQ.fQbvRFUCQ8U36r-1qqN55ldeRi6qCkp6tr9hA8glnkA&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/24/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5NDIsInVyaSI6Ii9icGstdHYvMjQvb3V0cHV0L2luZGV4Lm0zdTgifQ.pQgtXVLIf-lLaua05Z5PTaaylFL1vcmbka6l6GbGUDo&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9855" group-title="Quốc Tế 👻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/1200px-CNBC_2023.svg.png",CNBC
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/293/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2ODUsInVyaSI6Ii9icGstdHYvMjkzL291dHB1dC9pbmRleC5tM3U4In0.DvUZuo77Ov47EZWk9f9EfPLzgoz9KQwwG99TOfPerw4&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/293/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5NDIsInVyaSI6Ii9icGstdHYvMjkzL291dHB1dC9pbmRleC5tM3U4In0.EPHHa8udRQyOpWlhh-dwZs7_4yfvJc4qMqRPtumScpQ&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="19" group-title="Thiết yếu 👻" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -603,107 +603,107 @@ https://fo-hlc.tv360.vn/bpk-tv/378/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-id="31" group-title="Tổng hợp 👻" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5d506068474815.Y3JvcCwzNzI2LDI5MTQsMCw1NQ.png",You TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/50/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk0MDYsInVyaSI6Ii9icGstdHYvNTAvb3V0cHV0L2luZGV4Lm0zdTgifQ.UoDwEeMdpyoVkATxexxSruEuS7n3dKqf-JGacsajkK4&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/50/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY2NjYsInVyaSI6Ii9icGstdHYvNTAvb3V0cHV0L2luZGV4Lm0zdTgifQ.uKhT_LXHFsU_D6vTyYkTFaKj5MpTC_0HYgzQMsAIt7I&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="99" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/QCv1TwCm/HGTV-logo-removebg-preview.png",HGTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/295/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk1MjAsInVyaSI6Ii9icGstdHYvMjk1L291dHB1dC9pbmRleC5tcGQifQ.4uknelwI0JXHDn_YWn1gyUaJbB4cdVM9aoaqYJv9Ns0&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/295/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY3NzcsInVyaSI6Ii9icGstdHYvMjk1L291dHB1dC9pbmRleC5tcGQifQ.60fasgHVvWwplJYPnTYuqs-AfGlLOmFm4mVVKle7Mqc&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="135" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/GKOac3p.png",Earth Planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/176/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk1ODMsInVyaSI6Ii9icGstdHYvMTc2L291dHB1dC9pbmRleC5tM3U4In0.-yjJT3N7Bqeb_8BM2255eZOOBRKI0TjAco28DxbIUQE&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/176/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NDAsInVyaSI6Ii9icGstdHYvMTc2L291dHB1dC9pbmRleC5tM3U4In0.fLPmAXN--rAFvTfI31JWb_nyABvU5MtmpW76n9ygj_M&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="159" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/pd7GZJ71/0000-1.png",Box Movie
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/162/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MDQsInVyaSI6Ii9icGstdHYvMTYyL291dHB1dC9pbmRleC5tM3U4In0.Fh789eZxJUCxlStN2-XFF4V1tYFbMqBnmdIRbV19xag&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/162/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NjEsInVyaSI6Ii9icGstdHYvMTYyL291dHB1dC9pbmRleC5tM3U4In0.oECapOwZm55XD4nbhw-db_7BdUof3SSec_Nz-zMwoHo&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="160" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/YjKZnzwR/Hollywood-Classics.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://rr2-ateme.tv360.vn/live/eds/163/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE2My9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc1NTg2OTYwN30.ZcJ3HnSV9uSnJKm7wtWzJ7Up1MCRjSxiFZnWgtjGjv9FHUGSYTY7RLqTXMvvbCgING-gwDVtJnpMXqUKYARSYg&screen=MHN&uid=173373703
+http://27.67.50.6:18080/163.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RDO7QP5z7UmZD0daubKh7cun66ix2wi19S/IijhgnCd4i8NtEpN/m02/m5hejtZz9dMdDbdhahnsg9sPFXsPhJgjNxSO2XxHAEBE2s+YTEkbkQiHU3G3BPLZnhHpjbyj/MIYrtAb6n27onViTTBeFeKZI3eWVN5/iEa7mSQC0gCw==&uid=173373703
 
 #EXTINF:-1 tvg-id="162" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/167/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2MDcsInVyaSI6Ii9icGstdHYvMTY3L291dHB1dC9pbmRleC5tM3U4In0.FYmOyBtIxnaaFIW5fykeDN4Hb1iOivYFQHVoLBA7uTM&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/167/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NjQsInVyaSI6Ii9icGstdHYvMTY3L291dHB1dC9pbmRleC5tM3U4In0.w83PAUa4Lz95pqRrSt7ZCcsSpOofbYwiZJS8okE_eg8&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="163" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://116.108.198.134:18080/169.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SwUKb1qlyte2FH0/rMjI6nJErw7M2fjRN6wH8ZbGJd6fV+K+9XIJ7NQ2Z/SaOhrwOmNHJN8AEgcWLscdL9hVd2LE4EU0rrCZD9uqwgt2ke9gV8au4TXGNnVljX0VXl2O2flughBPfLr/9rQijvMXFWtJRWeF8cPvZDX8WpI0ufEQ==&uid=173373703
+http://116.108.198.134:18080/169.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7T88qnV3KPEhS8N0Lml88PxmQMioxWDS6h7LMTXyvJtXyc8Ob8Pbz8WCDmjnpkWcZvthyILiIpqFkypfPsEnz3NVLADWeiHBYEIMuomFGqoDQmHYaHsHfmTmpOkR/wqKQDtxL3zxMIVucxzRDC2qiQoN/WGRcELeMf5Tlkd06hG8g==&uid=173373703
 
 #EXTINF:-1 tvg-id="212" group-title="K+ 👻" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/170/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NjEsInVyaSI6Ii9icGstdHYvMTcwL291dHB1dC9pbmRleC5tM3U4In0.unya4-d6CI8OKGdN6jE-FXycJaEY-sV0BOr3VnQM-AQ&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/170/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MTgsInVyaSI6Ii9icGstdHYvMTcwL291dHB1dC9pbmRleC5tM3U4In0.HZqJtvlIG_nTS2LmbrZrqDLq1HH0trfPjh1n9wNjfck&minrate=0&maxrate=5000000&uid=263685778
 
 #EXTINF:-1 tvg-id="214" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/t9fzARL.png",DaVinci
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://171.238.180.86:18080/173.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S4mHsiqMGNonJglfYFRJ05xAzBowdvlTnB/gul6cEaGBWXNSD0Bl0wY1F5VLAs1M1DhZd/lLIZvumdR5IYiTr1Y1ynYLt5Ov5tofc2MH/Cjh2m5GPHp2a9W0LdNNV2ONG3x/oP3ER92NHabqUtV/zsD0VxR2fbpaOS7pgRxiKZwg==&uid=173373703
+http://116.108.198.134:18080/173.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QGH3YbULgz6s89h5pGiX3JjAJzPh5koaSYcxIe/dQGrY9h4kd/IrZykZk3sshPi/nym0LUvXkuYqiH39PdIStPKvZt4xyM2FP8VAOWoXfotbojA0uuR0tH+OqSgU37yXvyXecD+AhIFBpIw/uC5/A6lrCUxbWjAzjJjh/4na7pfA==&uid=173373703
 
 #EXTINF:-1 tvg-id="215" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/178/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NjQsInVyaSI6Ii9icGstdHYvMTc4L291dHB1dC9pbmRleC5tM3U4In0._4ZVeMF91z-VZIo3vasJAkzrgSAT6L71xz4tRIqPDoA&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/178/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MjEsInVyaSI6Ii9icGstdHYvMTc4L291dHB1dC9pbmRleC5tM3U4In0.ZVizSvE6DGiNbcYqpyi0-xiLJ7tn9eg4g42wNFovhR0&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="216" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/146/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NjcsInVyaSI6Ii9icGstdHYvMTQ2L291dHB1dC9pbmRleC5tM3U4In0.3PjCVq-cXQlV9dmjYL2MbGsd4mI5rRXiqFwwq0fI_Og&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/146/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MjQsInVyaSI6Ii9icGstdHYvMTQ2L291dHB1dC9pbmRleC5tM3U4In0.p_cUgqum0AVoTQlCkmnVVW5zkYC3n3mUfVT681kkzOo&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="235" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/nVC6bCpJ/t-i-xu-ng.png",In The Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/187/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NzMsInVyaSI6Ii9icGstdHYvMTg3L291dHB1dC9pbmRleC5tM3U4In0.VBoS1TQKGE_-laisdBnPwHw1Ga0AL7OmQj096WAFSvg&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/187/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MzAsInVyaSI6Ii9icGstdHYvMTg3L291dHB1dC9pbmRleC5tM3U4In0.1SyUwnG7jk7vF6OwgIwECgbxv3fYED5_xXrzK4g_As8&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="237" group-title="Quốc Tế 👻" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png",Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/188/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NzMsInVyaSI6Ii9icGstdHYvMTg4L291dHB1dC9pbmRleC5tM3U4In0.VEAfGTZd1mVlJHK6UKVZM6abE0lzuZZpvrza8hAV_70&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/188/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MzAsInVyaSI6Ii9icGstdHYvMTg4L291dHB1dC9pbmRleC5tM3U4In0.eAkaDNRBHix5HXDBBgiAncxZhyPOJDlJzHHiMtqmzp0&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="239" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box HITS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/189/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NzYsInVyaSI6Ii9icGstdHYvMTg5L291dHB1dC9pbmRleC5tM3U4In0.4dIwMZDBnK4PjsLu5PgKb7kDsv5RRqKA8z7jqHKapvY&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/189/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MzMsInVyaSI6Ii9icGstdHYvMTg5L291dHB1dC9pbmRleC5tM3U4In0.Bs_Tze20HrZhk0esWWOxyfLpxX32JzwSmmSQWStGZH4&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="289" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/271/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NzksInVyaSI6Ii9icGstdHYvMjcxL291dHB1dC9pbmRleC5tM3U4In0.TibnmBonn6oFpZs5K3T7g7pqdZs-RdyPG3OEozF2GCc&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/271/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MzYsInVyaSI6Ii9icGstdHYvMjcxL291dHB1dC9pbmRleC5tM3U4In0.VOCYK8J6WFtYVzfapvSKjRTNZq5hnKkk8pLo2TF06eM&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9856" group-title="Quốc Tế 👻" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/Hybris/VC400038_1_image01.png",History
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2ODgsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.901H2vNtg4CiwePiQQ_fCrw20nlcG0CngUE1eErSFMQ&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5NDUsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.yJZbL3KDf3Bg6ZVRo1NrWecu12O76S_W19hV5JVLajM&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9901" group-title="Quốc Tế 👻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/200px-KIX_logo.svg.png",KIX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/166/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2OTQsInVyaSI6Ii9icGstdHYvMTY2L291dHB1dC9pbmRleC5tM3U4In0.eJ6hWRl2VGhJCQGpvSW3NVSpuddrxtc1Qyi2qTCeX5E&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/166/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5NTEsInVyaSI6Ii9icGstdHYvMTY2L291dHB1dC9pbmRleC5tM3U4In0.HZK7FeDuEJYeyO4ihr28BKj5iDQrAoJ1ppzdFb4w3KQ&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9902" group-title="Tổng hợp 👻" tvg-logo="https://i.postimg.cc/KYbxn8ws/2-nhac-bolero.jpg",Film China
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/425/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2OTcsInVyaSI6Ii9icGstdHYvNDI1L291dHB1dC9pbmRleC5tM3U4In0.WVKpYo3cRm7FbHiSPhHDG7Nj9dyxzR1wl5LqvN7NawE&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/425/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5NTQsInVyaSI6Ii9icGstdHYvNDI1L291dHB1dC9pbmRleC5tM3U4In0.UxY6nnEpF1VGNSynbsQ3auf4cDtgadJna7hIZmT06-c&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9903" group-title="Tổng hợp 👻" tvg-logo="https://i.postimg.cc/3JtXMMrN/f.jpg",Film international
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/426/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2OTcsInVyaSI6Ii9icGstdHYvNDI2L291dHB1dC9pbmRleC5tM3U4In0.jsi94E8_FXg9vZHM1cOJFobwVxeb8W6PW4cbOlYhGhw&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/426/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5NTQsInVyaSI6Ii9icGstdHYvNDI2L291dHB1dC9pbmRleC5tM3U4In0.XxkIOyaf4S9JNjBGr_qMGKfp8ELb83R-QraZW_c7rFA&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9905" group-title="Thiết yếu 👻" tvg-logo="https://i.postimg.cc/brLxgWV7/2.png",FM90 Mhz
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/428/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk3MDAsInVyaSI6Ii9icGstdHYvNDI4L291dHB1dC9pbmRleC5tM3U4In0.AeULiASZ7RXIZKYN8ECubKnoYAKHC-rWDnLKaxysWQQ&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/428/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5NTcsInVyaSI6Ii9icGstdHYvNDI4L291dHB1dC9pbmRleC5tM3U4In0.pRqZ52_7Agn3Wvej4xZpgZn0TCsU-0S32ehsAzsE-RA&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9906" group-title="Thiết yếu 👻" tvg-logo="https://i.postimg.cc/6q5XF4z8/3.png",FM96 Mhz
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/429/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk3MDAsInVyaSI6Ii9icGstdHYvNDI5L291dHB1dC9pbmRleC5tM3U4In0.a40SmN8BvG8mX3gVEaJfoscA72i49-0dbGoa9GmZ1_o&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/429/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5NTcsInVyaSI6Ii9icGstdHYvNDI5L291dHB1dC9pbmRleC5tM3U4In0.qz9g9tCxG6j-X2UTySzq9iZgT7Rwo2y146QWXALqDMM&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9908" group-title="Tổng hợp 👻" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -718,45 +718,45 @@ https://rr1-ateme.tv360.vn/live/lowlatency/1944/CMAF_Clean_MHL_2s_new/1944.m3u8?
 #EXTINF:-1 tvg-id="1" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/3c49f217776180547122ad33f6bfd133.png",TV360+1 CUP C1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/199/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4NjkzMjIsInVyaSI6Ii9icGstdHYvMTk5L291dHB1dC9pbmRleC5tM3U4In0.2t5JlyBmwck6QmYLJfOJaZRhC14XkY4h3-1l6wJ0nKU&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/199/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzYzNjksInVyaSI6Ii9icGstdHYvMTk5L291dHB1dC9pbmRleC5tM3U4In0.mu7OYqUBPCLXnamDHcwRyTMVjOAhQA6zUEhJ2nwtJ3E&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="148" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/9d70a31a1d4bd1820bae3d9321fe9ca5.png",TV360+2 CUP C2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/200/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk1ODYsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tM3U4In0.rZGCXxVcEXQFzOg65BySRzAIcK82YtOkyelSruV9_GU&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/200/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NDMsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tM3U4In0.jKyaY56hairTbwhTghjjc6VqDQ8nIQwyasINQwN8s5M&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="148" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/9d70a31a1d4bd1820bae3d9321fe9ca5.png",TV360+5 CUP C2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/200/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk1ODYsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tM3U4In0.rZGCXxVcEXQFzOg65BySRzAIcK82YtOkyelSruV9_GU&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/200/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY4NDMsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tM3U4In0.jKyaY56hairTbwhTghjjc6VqDQ8nIQwyasINQwN8s5M&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="2458" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/3c49f217776180547122ad33f6bfd133.png",TV360+3 CUP C1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://rr1-ateme.tv360.vn/live/eds/201/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMS9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzU1ODY5Njc2fQ.VU5XlLfTw6M9L8qz6xzH1g0f42hHPaBMCZIy02bVR5KxNnc_KAZn9f9-1kwD0RKT9mpFVEprJvo6nEpqBztylg&screen=MHN&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/201/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MzMsInVyaSI6Ii9icGstdHYvMjAxL291dHB1dC9pbmRleC5tcGQifQ.bWBfjKesD3haIk3WUrJuMz7KJID5Pj7DF5z0oXx_kyw&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="2458" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/3c49f217776180547122ad33f6bfd133.png",TV360+9 CUP C1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://rr1-ateme.tv360.vn/live/eds/201/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMS9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzU1ODY5Njc2fQ.VU5XlLfTw6M9L8qz6xzH1g0f42hHPaBMCZIy02bVR5KxNnc_KAZn9f9-1kwD0RKT9mpFVEprJvo6nEpqBztylg&screen=MHN&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/201/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MzMsInVyaSI6Ii9icGstdHYvMjAxL291dHB1dC9pbmRleC5tcGQifQ.bWBfjKesD3haIk3WUrJuMz7KJID5Pj7DF5z0oXx_kyw&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="2554" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/20b456966cae4ea5e421b1b3a034c0f5.png",TV360+4 CUP C2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/198/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2NzksInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tM3U4In0.qrW2u4BG9G19TF8fk9reiQJEhvLVAARGuv8agCSTmbE&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/198/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5MzYsInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tM3U4In0.Mn-DB14srG-Yw80hVpatAG_cVDZHug9sa0Gm-WyN-f8&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9867" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/876becb83cedebc4c1362de5dea0ec2f.png",TV360+6 CUP C2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/367/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2ODgsInVyaSI6Ii9icGstdHYvMzY3L291dHB1dC9pbmRleC5tcGQifQ.AWnkR6jJZ7y5EultRGZZgNLus_qUDx6C9cgYBU2TzLw&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/367/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5NDUsInVyaSI6Ii9icGstdHYvMzY3L291dHB1dC9pbmRleC5tcGQifQ.J1KEaTEeamigVcPI0lXzLJzWWjY_PDWmAtDoeI-gl1c&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9868" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/be3726897659953bcc937c77acfa2994.png",TV360+7 CUP C2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2OTEsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.uzXgKY9Ki6OUK5Rqr8h1JuTd3f4lcg4ki1D7vFwIx_U&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5NDgsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.QXdqzLxhwdENfecVxIhrQx2HjgfTm-1X_wIY1_MGLxg&minrate=0&maxrate=5000000&uid=173373703
 
 #EXTINF:-1 tvg-id="9869" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/2f739bcb8a89d19485d3f3cefe321f06.png",TV360+8 CUP C2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://fo-hlc.tv360.vn/bpk-tv/369/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU4Njk2OTEsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tcGQifQ.GZOPUFRAKF_MpSUmjA3U-ImYUKGFYD1z_HODzkDwZto&minrate=0&maxrate=5000000&uid=173373703
+https://fo-hlc.tv360.vn/bpk-tv/369/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTU5MzY5NDgsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tcGQifQ.RV1IeJDRduVELO7KOscZyFpvFTDQoreyP_Qkuf4-OMo&minrate=0&maxrate=5000000&uid=173373703
 
